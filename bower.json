@@ -1,0 +1,19 @@
+{
+  "name": "front-end-stanrdards",
+  "description":"Front-End Coding Standards",
+  "main": "main.js",
+  "author": "Thadeu Cotts <thadeu@cotts.tech> (https://cotts.tech)",
+  "license": "MIT",
+  "homepage": "https://github.com/cotts/front-end-standards.git",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize-css": "^5.0.0"
+  }
+}
