@@ -124,5 +124,5 @@ This project is licensed under the MIT License
 
 ## Acknowledgments
 
-* [Alura Cursos Online](https://www.alura.com.br) for the way of teach development
+* [Alura Cursos Online](https://www.alura.com.br) for the amazing way of teach development
 * [@sergiolopes](https://github.com/sergiolopes), [@filipedeschamps](https://github.com/filipedeschamps) for the useful tips
