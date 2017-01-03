@@ -1,6 +1,6 @@
 {
   "name": "front-end-stanrdards",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Front-End Coding Standards",
   "main": "gulpfile.js",
   "scripts": {
