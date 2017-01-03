@@ -9,7 +9,6 @@ const gulp = require('gulp')
     , jshint = require('gulp-jshint')
     , jshintStylish = require('jshint-stylish')
     , usemin = require('gulp-usemin')
-    , rename = require('gulp-rename')
     , browserSync = require('browser-sync');
 
 csslint.addFormatter('csslint-stylish');
